@@ -1,0 +1,14 @@
+{
+  "name": "kas-get-block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coderofstuff",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
